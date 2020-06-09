@@ -1,0 +1,34 @@
+#a_pBody{
+  position: relative;
+}
+/* .card-header{
+  background-color: rgba(0, 195, 255, 0.342);
+} */
+.thead-dark, .tbody{
+  text-align: center;
+}
+.afooter{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+}
+
+.create-product{
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.imageRow{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#product_image{
+  margin-left: 5%;
+  margin-bottom: 1%;
+}
+.a_sidebar{
+  padding-left: 0;
+  padding-right: 0;
+}
